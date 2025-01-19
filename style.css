@@ -1,0 +1,42 @@
+
+.header{
+    background-color: black;
+    color: white;
+    display: block;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+}
+div{
+    display: inline-block ;
+    margin-top: 5px;
+    
+}
+.one{
+    border: 2px solid black;
+    
+    width: 200px;
+
+}
+.two{
+    border: 2px solid black;
+    width: 200px;
+}
+.three{
+    border: 2px solid black;
+    width: 200px;
+}
+.four{
+    border: 2px solid black;
+    width: 200px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.contact_form{
+    background-color: black;
+    color: white;
+    display: block;
+}
